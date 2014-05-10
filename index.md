@@ -24,7 +24,7 @@ I am a Ph.D. Student in the [Department of Computer Science and Engineering](htt
   {% endfor %}
 </ul>
 <div markdown="1">  
-{% include misc.md %}
+
 </div>
 -->
 ---
